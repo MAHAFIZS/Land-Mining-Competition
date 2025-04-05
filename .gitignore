@@ -1,0 +1,13 @@
+# Ignore VS build and user files
+.vs/
+bin/
+obj/
+*.exe
+*.pdb
+*.user
+*.suo
+*.vshost.*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
