@@ -1,6 +1,6 @@
 # Landmine Detection Robot – Malaysia Robo-Fight Competition
 
-This project was developed for a national Robo-Fight competition at CUET. It includes a landmine detection robot programmed with Arduino and a C# GUI for PC-based monitoring or control.
+This project was developed for a International Robo-Fight competition at Malaysia. It includes a landmine detection robot programmed with Arduino and a C# GUI for PC-based monitoring or control.
 
 ## 🚀 Features
 - **Obstacle avoidance**
